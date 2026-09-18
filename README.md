@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **rupeshbharti174@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Health Care Product
-- 🌱 **I’m currently learning:** Deep Learning || Langchain || Machine Learning  
+- 🌱 **I’m currently learning:** Deep Learning || Langchain || Machine Learning || MERN Stack
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rupeshbharti174@gmail.com
 - 😄 **Pronouns:** Rupesh
